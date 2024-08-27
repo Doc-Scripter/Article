@@ -18,12 +18,12 @@ People often  associate Data Science with numbers, calculations, and complexity.
 
 ## The idea behind Data Science
 
-Data Science is about using data to uncover insights that can lead to better solutions, smarter decisions, and more positive impact. Take my cousin, Alex, for example. He works at a hospital, and they've been using Data Science to improve patient care and outcomes in some really cool ways.
+Data Science is about using data to uncover insights that can lead to better solutions, smarter decisions, and more positive impact. Take my cousin, Alex, for example. He works at a hospital where they've been using Data Science to improve patient care and outcomes in some really cool ways.
 
-One thing they noticed was that a lot of their heart disease patients were being readmitted to the hospital. So they dug into the data - they looked at medical records, patient feedback, even weather patterns and traffic data. And you know what they found?
+One thing they noticed was that a lot of their heart disease patients were being readmitted to the hospital. So they dug into the data - they looked at medical records, patient feedback, even weather patterns and traffic data. Know what they found?
 
 Turns out, a big factor was that a lot of these patients were having trouble making it to their follow-up appointments. The hospital was just too far away for some of them, especially the older patients who didn't have reliable transportation. 
-[Here's a fascinating article on how Data Science is transforming healthcare facilities to improve patient access](href:https//example.com)
+[Here's a fascinating article on how Data Science is transforming healthcare facilities to improve patient access](https://hbr.org/2022/01/how-digital-transformation-can-improve-hospitals-operational-decisions)
 
 
  The Data Science team worked with the hospital to set up a network of community health centers closer to where these patients lived.
@@ -35,7 +35,7 @@ Ok! you got me, I don't have a cousin named Alex(chuckle!) but as you can see th
 
 ## The heart of Data Science(Math)
 
-But let's not forget about the math side of things. Data science isn't just for the number crunchers, but the math is still a pretty important part of it.
+But let's not forget about the math side of things. Data science isn't just for the number crunchers, but math is still a pretty important part of it.
 
 Take the normal distribution function, for example. Sounds super fancy, right? But really, it's just a way of understanding how things tend to cluster around an average or "normal" value.
 
