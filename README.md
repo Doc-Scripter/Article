@@ -13,8 +13,11 @@
 
 ## Introduction
 
-People often  associate Data Science with numbers, calculations, and complexity. While math plays a significant role, Data Science goes beyond mere numerical analysis.
+People often associate Data Science with numbers, calculations, and complexity. While math plays a significant role in the field, this article emphasizes that Data Science extends far beyond mere numerical analysis.
 
+This piece is not intended to criticize math experts; in fact, a strong mathematical foundation is incredibly valuable. Instead, it's for those who once had a passion for Data Science but felt that the emphasis on math extinguished their hopes.
+
+Moreover, this article speaks to individuals who are uncertain about pursuing a career in Data Science, particularly those who doubt their mathematical abilities. It aims to reshape the narrative by focusing on problem-solving skills rather than the narrow view that career success is solely reserved for math experts.
 
 ## The idea behind Data Science
 
@@ -45,9 +48,22 @@ That's the normal distribution in action. Data scientists use this concept all t
 
 Speaking of averages, let's talk about the difference between the mean and the median. The mean is the simple average, but the median is the middle value when you put all the numbers in order.
 
+**mean :**
+
+-lets say you have 3 baskets of apples having, 3,5,9 apples respectively
+to get the mean
+(3+5+9)/3=7
+
+![mean](image.png)
+
+**median :**
+
+-lets say you have a group of 3 people with ages 24,26,28 in a queue to sign a register 
+the median of 24,26 and 28 is 26 the middle value
+
 Now back to that stack of student papers. If there's one or two papers that are way off the charts, either super high or super low, the mean grade might not give you the best picture of how the class is actually performing; but, the median would show you the true middle point, which could be a more accurate representation of the overall student performance.
 
-See, Data Science isn't just about crunching numbers, it's about using those numbers to tell a story and make better decisions. It's a tool that can be applied to all kinds of real-world situations, whether you're running a business, working in healthcare, or just trying to understand the world around you a little bit better.[For practical insights on applying mean and median in data analysis, check out this thought-provoking article: ](https://www.example.com)
+See, Data Science isn't just about crunching numbers, it's about using those numbers to tell a story and make better decisions. It's a tool that can be applied to all kinds of real-world situations, whether you're running a business, working in healthcare, or just trying to understand the world around you a little bit better.[For practical insights on applying mean and median in data analysis, check out this thought-provoking article: ](https://www.statology.org/mean-median-mode-real-life-examples/)
    
 
 ## Embark on Your Data Journey
