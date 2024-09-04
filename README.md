@@ -73,37 +73,6 @@ See, Data Science isn't just about crunching numbers, it's about using those num
 
 Now the recipe to mastering Data Science wouldn't be complete without some spices now would it(hope you are not allergic to this kind of spice ><)
 
-#### 1. Practice programming 
-
-* [Codewars](https://www.codewars.com/dashboard)
-
-  I promise you'll fit right at home ,whether you are a beginner,intermediate ,advanced programmer or a casual learner.This will improve your logic and problem solving skills
-
-* [Leetcode](https://leetcode.com/)
-    
-  If you are feeling ambitious,try leetcode,with interview questions to get you job ready and also equip you with algorithms from basic to advanced
-
-#### 2. Learn mathematics and statistics
-
-* [Projecteuler](https://projecteuler.net/)
-
-  Previous sites also have mathematics problems and solutions for your needs,but if you want to dig right into maths try here,maths problems are categorized from easy to hard and you can use any method to solve the questions.This will make you challenge your knowledge and logic.
-
-#### 3. Join Data science communities
-
-  It might seem too little but a little help goes along way any other Data Scientist knows this and every one of them is always ready to help you through any of the steps mentioned as you master Data Science.
-
-  Here is one such community :
-
-* [Kaggle](https://www.kaggle.com/)
-
-  The world's largest Data Science community with powerful tools and resources to help you achieve your Data Science goals
-
-## Conclusion
-
-So don't be intimidated by the math. Data science is all about taking those complex concepts and turning them into something that actually makes a difference in people's lives; and with a little bit of creativity and a whole lot of real-world application, you can slay that math dragon and become a Data Science superhero in no time!
-
-
           +-------------------------------+
           |    Steps to Mastering Data    |
           |          Science               |
@@ -132,3 +101,34 @@ So don't be intimidated by the math. Data science is all about taking those comp
           |         Communities            |
           | - Engage with Kaggle           |
           +-------------------------------+
+#### 1. Practice programming 
+
+* [Codewars](https://www.codewars.com/dashboard)
+
+  I promise you'll fit right at home ,whether you are a beginner,intermediate ,advanced programmer or a casual learner.This will improve your logic and problem solving skills
+
+* [Leetcode](https://leetcode.com/)
+    
+  If you are feeling ambitious try leetcode,with interview questions to get you job ready and also equip you with algorithms from basic to advanced
+
+#### 2. Learn mathematics and statistics
+
+* [Projecteuler](https://projecteuler.net/)
+
+  Previous sites also have mathematics problems and solutions for your needs,but if you want to dig right into maths try here,maths problems are categorized from easy to hard and you can use any method to solve the questions.This will make you challenge your knowledge and logic.
+
+#### 3. Join Data science communities
+
+  It might seem too little but a little help goes along way any other Data Scientist knows this and every one of them is always ready to help you through any of the steps mentioned as you master Data Science.
+
+  Here is one such community :
+
+* [Kaggle](https://www.kaggle.com/)
+
+  The world's largest Data Science community with powerful tools and resources to help you achieve your Data Science goals
+
+## Conclusion
+
+So don't be intimidated by the math. Data science is all about taking those complex concepts and turning them into something that actually makes a difference in people's lives; and with a little bit of creativity and a whole lot of real-world application, you can slay that math dragon and become a Data Science superhero in no time!
+
+
