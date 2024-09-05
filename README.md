@@ -25,11 +25,13 @@ Data Science is about using data to uncover insights that can lead to better sol
 
 Data Science is revolutionizing healthcare by uncovering valuable insights that lead to improved patient care and outcomes. Hospitals across the country are increasingly employing data analytics to address critical challenges, such as high readmission rates for heart disease patients.
 
-For instance, a notable case comes from the Cleveland Clinic, where data science initiatives revealed that many heart failure patients were struggling to make their follow-up appointments. Analyzing medical records, patient surveys, and external data like transportation methods, researchers found that limited access to transportation was a significant barrier, especially for older patients.
+At Johns Hopkins Medicine, they’ve been looking into why so many heart failure patients have trouble keeping up with their follow-up appointments. By digging through patient records, surveys, and even looking at things like transportation options, they found that getting to the hospital for regular check-ups was a big challenge for many, especially older patients.
 
-To address this issue, the Cleveland Clinic established partnerships with local clinics and community organizations to set up a network of access points closer to patients’ homes. By allowing heart disease patients to receive care at nearby community health centers, the clinic improved accessibility and convenience for those in need.
+To help out, they started the "Heart Failure Bridge Clinic," which is run by nurse practitioners. This clinic acts like a stepping stone for patients moving from hospital care back to their regular lives. The team there, which includes doctors, nurses, pharmacists, and social workers, works closely with each patient to make sure they’re getting the right care—things like managing their medications, following a proper diet, and learning how to handle their condition day-to-day.
 
-As a result of these data-driven changes, the Cleveland Clinic observed a significant reduction in the readmission rates for heart failure patients. This shift not only enhanced patient satisfaction but also demonstrated how targeted, data-informed solutions could lead to better health outcomes.
+This approach has made it easier for patients to get the care they need without always having to come back to the hospital, which not only improves their health outcomes but also helps reduce the chances of being readmitted. Plus, it’s a great way to ensure patients stay on track with their recovery and feel supported throughout the process.
+
+For more details, you can check out the Johns Hopkins Medicine website [here](https://www.hopkinsmedicine.org/news/articles/2020/06/heart-failure-bridge-clinic-helps-patients-manage-disease-and-reduces-hospital-readmissions)
 
 This example underscores the potential of data science in healthcare to not only identify barriers to care but also implement solutions that enhance patient access and quality of service. Hospitals utilizing data analytics can streamline operations and improve the overall patient experience, proving that a data-driven approach is essential for modern healthcare delivery.
 
@@ -51,9 +53,14 @@ The mean is the simple average, but the median is the middle value when you put 
 
 **mean :**
 
--lets say you have 3 baskets of apples having, 3,5,9 apples respectively
-to get the mean
-(3+5+9)/3=7
+-lets say you have 3 baskets of apples having, 3,5,9 apples respectively.
+
+3+5+9=17
+
+And because there are 3 items ,you divide by the number of baskets to get the mean
+(3+5+9)/3=5.66
+
+we'll round it off to get the valuse as a whole number.The mean becomes 6.
 
 ![mean](image.png)
 
@@ -71,7 +78,7 @@ See, Data Science isn't just about crunching numbers, it's about using those num
 
 ### Steps to mastering Data science
 
-Now the recipe to mastering Data Science wouldn't be complete without some spices now would it(hope you are not allergic to this kind of spice ><)
+The recipe to mastering Data Science wouldn't be complete without some spices now would it(hope you are not allergic to this kind of spice ><)
 
           +-------------------------------+
           |    Steps to Mastering Data    |
@@ -115,11 +122,11 @@ Now the recipe to mastering Data Science wouldn't be complete without some spice
 
 * [Projecteuler](https://projecteuler.net/)
 
-  Previous sites also have mathematics problems and solutions for your needs,but if you want to dig right into maths try here,maths problems are categorized from easy to hard and you can use any method to solve the questions.This will make you challenge your knowledge and logic.
+  Previous mentioned sites also have mathematics problems and solutions for your needs,but if you want to dig right into maths try here,maths problems are categorized from easy to hard and you can use any method to solve the questions.This will make you challenge your knowledge and logic.
 
 #### 3. Join Data science communities
 
-  It might seem too little but a little help goes along way any other Data Scientist knows this and every one of them is always ready to help you through any of the steps mentioned as you master Data Science.
+  It might seem too little but a little help goes along way, any other Data Scientist knows this and every one of them is always ready to help you through any of the steps  as you master Data Science.
 
   Here is one such community :
 
@@ -131,4 +138,5 @@ Now the recipe to mastering Data Science wouldn't be complete without some spice
 
 So don't be intimidated by the math. Data science is all about taking those complex concepts and turning them into something that actually makes a difference in people's lives; and with a little bit of creativity and a whole lot of real-world application, you can slay that math dragon and become a Data Science superhero in no time!
 
+A great first step to kickstart your journey is to join a community, such as this; [Data Science/ML/AI Discord community](https://discord.com/invite/GstMFUHd), where you'll find peers ready to support you and share their knowledge.
 
