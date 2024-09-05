@@ -13,11 +13,11 @@
 
 ## Introduction
 
-People often associate Data Science with numbers, calculations, and complexity. While math plays a significant role in the field, this article emphasizes that Data Science extends far beyond mere numerical analysis.
+People often think Data Science is all about numbers, calculations, and complexity. But while math plays a significant role in the field, this article shows that Data Science goes far beyond mere numerical analysis.
 
-This piece is not intended to criticize math experts; in fact, a strong mathematical foundation is incredibly valuable. Instead, it's for those who once had a passion for Data Science but felt that the emphasis on math extinguished their hopes.
+This piece isn't meant to criticize math experts - a strong mathematical foundation is incredibly valuable. Instead, it's for those who once had a passion for Data Science but felt that the emphasis on math made them lose hope.
 
-Moreover, this article speaks to individuals who are uncertain about pursuing a career in Data Science, particularly those who doubt their mathematical abilities. It aims to reshape the narrative by focusing on problem-solving skills rather than the narrow view that career success is solely reserved for math experts.
+This article also speaks to individuals who are unsure about pursuing a career in Data Science, especially those who doubt their mathematical abilities. It aims to change the narrative by focusing on problem-solving skills rather than the narrow view that career success is solely reserved for math experts.
 
 ## The idea behind Data Science
 
@@ -31,11 +31,11 @@ To help out, they started the "Heart Failure Bridge Clinic," which is run by nur
 
 This approach has made it easier for patients to get the care they need without always having to come back to the hospital, which not only improves their health outcomes but also helps reduce the chances of being readmitted. Plus, it’s a great way to ensure patients stay on track with their recovery and feel supported throughout the process.
 
-For more details, you can check out the Johns Hopkins Medicine website [here](https://www.hopkinsmedicine.org/news/articles/2020/06/heart-failure-bridge-clinic-helps-patients-manage-disease-and-reduces-hospital-readmissions)
+For more details, you can check out [here](https://www.hopkinsmedicine.org/news/articles/2020/06/heart-failure-bridge-clinic-helps-patients-manage-disease-and-reduces-hospital-readmissions)
 
-This example underscores the potential of data science in healthcare to not only identify barriers to care but also implement solutions that enhance patient access and quality of service. Hospitals utilizing data analytics can streamline operations and improve the overall patient experience, proving that a data-driven approach is essential for modern healthcare delivery.
+This example shows the potential of data science in healthcare to not only identify barriers to care but also implement solutions that enhance patient access and quality of service. Hospitals utilizing data analytics can streamline operations and improve the overall patient experience, proving that a data-driven approach is essential for modern healthcare delivery.
 
-In summary, data science is not just about numbers; it is about transforming insights into actionable strategies that improve patient care and operational efficiency across the healthcare spectrum.
+In summary, data science is not just about numbers; it's about transforming insights into actionable strategies that improve patient care and operational efficiency across the healthcare spectrum.
 
 ## The heart of Data Science(Math)
 
@@ -60,14 +60,15 @@ The mean is the simple average, but the median is the middle value when you put 
 And because there are 3 items ,you divide by the number of baskets to get the mean
 (3+5+9)/3=5.66
 
-we'll round it off to get the valuse as a whole number.The mean becomes 6.
+we'll round it off to get the values as a whole number.The mean becomes 6.
 
 ![mean](image.png)
 
 **median :**
 
--lets say you have a group of 3 people with ages 24,26,28 in a queue to sign a register 
-the median of 24,26 and 28 is 26 the middle value
+-lets say you have a group of 3 people with ages 24,26,28 in a queue to sign a register.
+
+The median of 24,26 and 28 is 26 the middle value
 
 Now back to that stack of student papers. If there's one or two papers that are way off the charts, either super high or super low, the mean grade might not give you the best picture of how the class is actually performing; but, the median would show you the true middle point, which could be a more accurate representation of the overall student performance.
 
@@ -136,7 +137,9 @@ The recipe to mastering Data Science wouldn't be complete without some spices no
 
 ## Conclusion
 
-So don't be intimidated by the math. Data science is all about taking those complex concepts and turning them into something that actually makes a difference in people's lives; and with a little bit of creativity and a whole lot of real-world application, you can slay that math dragon and become a Data Science superhero in no time!
+Don't be intimidated by the math. Think of it like a tool in your toolbox - you only need to use it when it's necessary for the task at hand.
 
-A great first step to kickstart your journey is to join a community, such as this; [Data Science/ML/AI Discord community](https://discord.com/invite/GstMFUHd), where you'll find peers ready to support you and share their knowledge.
+Data science is all about taking those complex concepts and turning them into something that actually makes a difference in people's lives; and with a little bit of creativity and a whole lot of real-world application, you can slay that math dragon and become a Data Science superhero in no time!
+
+So, where do you start? Joining a community like  [Data Science/ML/AI Discord community](https://discord.com/invite/GstMFUHd) is a great first step.You'll find people who are just as passionate about data science as you are, and who are happy to share their knowledge and support you on your journey.
 
